@@ -40,3 +40,5 @@ To print a space
 ```hwscript
 _
 ```
+
+Anything that's not a command is considered a comment.
