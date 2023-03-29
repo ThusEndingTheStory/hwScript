@@ -1,1 +1,2 @@
-bash hwScript/hwscript.sh hwScript/example.hwscript
+mv hwScript/hwscript `pwd`
+chmod +x hwscript
